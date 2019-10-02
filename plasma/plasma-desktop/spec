@@ -1,0 +1,3 @@
+VER=5.16.90
+SRCTBL="https://download.kde.org/unstable/plasma/${VER}/plasma-desktop-$VER.tar.xz"
+CHKSUM="sha256::1e6f568d317d7958486be12c0451c3e6aec6eadf2c1870ce11480bd55fb760b5"

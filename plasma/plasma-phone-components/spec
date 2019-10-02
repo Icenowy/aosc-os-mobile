@@ -1,0 +1,3 @@
+VER=0+git20191001
+GITSRC="https://invent.kde.org/kde/plasma-phone-components"
+GITCO="959e5ab7978e4496662540f321db76cfb2bb669c"

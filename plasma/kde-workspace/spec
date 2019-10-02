@@ -1,0 +1,3 @@
+VER=5.16.90
+SRCTBL="https://download.kde.org/unstable/plasma/$VER/plasma-workspace-$VER.tar.xz"
+CHKSUM="sha256::823c5675ce4438cdc178df1da31f1fd274ee657e40cf76cecb001f9d43697aad"

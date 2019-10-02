@@ -1,0 +1,3 @@
+VER=5.16.90
+SRCTBL="https://download.kde.org/unstable/plasma/$VER/plasma-integration-$VER.tar.xz"
+CHKSUM="sha256::3d1f3af46e30500f054b9b4cf01dc4d2789f3af218bf3539ad918a2fb45c9ba3"
