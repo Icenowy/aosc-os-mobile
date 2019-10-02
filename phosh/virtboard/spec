@@ -1,0 +1,3 @@
+VER=0.0.5+git20190621
+GITSRC="https://source.puri.sm/Librem5/virtboard.git"
+GITCO="576fffc61bcfa8e24f9dcf10d8bf3b32240cc36d"
