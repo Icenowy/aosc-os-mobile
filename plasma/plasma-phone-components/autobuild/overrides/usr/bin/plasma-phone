@@ -81,4 +81,12 @@ shadeSortColumn=true
 EOF
 }
 
+plasmashellrc=$configDir/plasmashellrc
+test -f $plasmashellrc || {
+cat >$plasmashellrc <<EOF
+[Shell]
+ShellPackage=org.kde.plasma.phone
+EOF
+}
+
 exec startplasmacompositor
