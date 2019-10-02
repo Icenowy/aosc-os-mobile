@@ -1,0 +1,3 @@
+VER=5.16.90
+SRCTBL="https://download.kde.org/unstable/plasma/$VER/kscreen-$VER.tar.xz"
+CHKSUM="sha256::d1ec266b2e13757429ad1c68d31e118e9be8283810678e73693cbc5e7954cb7a"
