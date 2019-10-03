@@ -90,4 +90,4 @@ ShellPackage=org.kde.plasma.phone
 EOF
 }
 
-exec startplasmacompositor
+exec startplasma-wayland
