@@ -31,7 +31,8 @@ export FORCE_RIL_NUM_MODEMS=1
 export QT_QUICK_CONTROLS_MOBILE=true
 
 export QT_ENABLE_GLYPH_CACHE_WORKAROUND=1
-export KWIN_COMPOSE=Q
+export QT_VIRTUALKEYBOARD_STYLE=Plasma
+# export KWIN_COMPOSE=Q
 
 # We need to create config folder so we can write startupconfigkeys
 if [  ${XDG_CONFIG_HOME} ]; then
