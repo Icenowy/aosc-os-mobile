@@ -1,3 +1,3 @@
-VER=0+git20190918
+VER=0+git20191108
 GITSRC="https://invent.kde.org/kde/plasma-nano"
-GITCO="1561d9c931a01ddadfc6ad1a4dd8e4763a5556bf"
+GITCO="eccb21ce80c64f48607bcef287083ae0069db8e5"
