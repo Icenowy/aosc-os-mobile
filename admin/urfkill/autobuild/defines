@@ -3,3 +3,4 @@ PKGDES="RFKILL daemon"
 PKGSEC=admin
 PKGDEP="dbus glib dbus-glib polkit expat"
 BUILDDEP="intltool"
+ABSHADOW=no
