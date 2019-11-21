@@ -1,0 +1,4 @@
+PKGNAME=urfkill
+PKGDES="RFKILL daemon"
+PKGSEC=admin
+PKGDEP="dbus glib dbus-glib polkit expat"
