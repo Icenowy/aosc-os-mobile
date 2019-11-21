@@ -1,0 +1,4 @@
+PKGNAME=libofono-qt
+PKGDES="Qt binding library for oFono"
+PKGDEP="qt-5"
+PKGSEC=libs
