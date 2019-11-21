@@ -1,3 +1,0 @@
-VER=5.16.90
-SRCTBL="https://download.kde.org/unstable/plasma/$VER/libkscreen-$VER.tar.xz"
-CHKSUM="sha256::b56b1b0e2dd256a4c0ee3ff190656e8d278ead0089abf8692e733ae3442af439"

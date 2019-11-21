@@ -1,3 +1,0 @@
-VER=5.16.90
-SRCTBL="https://download.kde.org/unstable/plasma/$VER/kscreenlocker-$VER.tar.xz"
-CHKSUM="sha256::9f2d984dbd70919326b92c119ccf8223673f62367d04d172dd5d852ce1fd2f1b"

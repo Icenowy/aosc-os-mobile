@@ -1,3 +1,0 @@
-VER=5.16.90
-SRCTBL="https://download.kde.org/unstable/plasma/$VER/kwin-$VER.tar.xz"
-CHKSUM="sha256::581f0578bfe0c6e53962d76ba1ca0d758d3217fe98954f9dd405f8511d500006"
