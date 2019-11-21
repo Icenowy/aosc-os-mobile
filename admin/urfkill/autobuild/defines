@@ -4,3 +4,5 @@ PKGSEC=admin
 PKGDEP="dbus glib dbus-glib polkit expat"
 BUILDDEP="intltool gtk-doc"
 ABSHADOW=no
+
+AUTOTOOLS_AFTER="--with-session-tracking=systemd"
