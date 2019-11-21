@@ -1,0 +1,2 @@
+mkdir -pv "$PKGDIR"/usr/lib/ofono/bin
+cp -v test/* "$PKGDIR"/usr/lib/ofono/bin
