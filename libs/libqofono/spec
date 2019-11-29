@@ -1,3 +1,0 @@
-VER=0.98
-GITSRC="https://git.merproject.org/mer-core/libqofono.git"
-GITCO="tags/$VER"

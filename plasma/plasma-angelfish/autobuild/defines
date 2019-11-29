@@ -1,4 +1,0 @@
-PKGNAME=plasma-angelfish
-PKGDES="Plasma Mobile browser"
-PKGSEC=kde
-PKGDEP="kirigami2 purpose qt-5"
