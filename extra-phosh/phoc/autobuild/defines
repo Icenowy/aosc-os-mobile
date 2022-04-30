@@ -1,0 +1,6 @@
+PKGNAME=phoc
+PKGDES="Wayland compositor for Phosh"
+PKGSEC=misc
+PKGDEP="glib libinput wayland mesa systemd x11-lib gnome-desktop pixman libxcb xcb-util-renderutil xcb-util-wm seatd xwayland"
+
+MESON_AFTER="-Dembed-wlroots=enabled --default-library=static"

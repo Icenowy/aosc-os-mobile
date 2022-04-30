@@ -1,0 +1,2 @@
+abinfo "Dropping unneeded runtime and header files ..."
+rm -rv "$PKGDIR"/usr/{lib,include}
