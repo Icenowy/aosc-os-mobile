@@ -1,0 +1,4 @@
+VER=0.1.4
+SRCS="git::commit=tags/$VER::https://gitlab.com/mobian1/callaudiod"
+CHKSUMS="SKIP"
+CHKUPDATE="anitya::id=141333"
