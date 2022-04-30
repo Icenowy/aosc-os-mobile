@@ -1,3 +1,0 @@
-VER=0.0.13
-GITSRC="https://source.puri.sm/Librem5/libhandy.git"
-GITCO="v${VER}"
