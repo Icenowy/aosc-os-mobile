@@ -1,0 +1,4 @@
+VER=1.6.2
+SRCS="https://download.gnome.org/sources/libhandy/${VER:0:3}/libhandy-$VER.tar.xz"
+CHKSUMS="sha256::7fa89aaa87966b6d0f5f4ef4d3efdaf654e2b01ea2c7ce2bd70301d1f9f42ca3"
+CHKUPDATE="anitya::id=114486"
