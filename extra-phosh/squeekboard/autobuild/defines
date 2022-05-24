@@ -1,0 +1,11 @@
+PKGNAME=squeekboard
+PKGDES="A Wayland virtual keyboard written in Rust for Phosh"
+PKGSEC=misc
+PKGDEP="wayland gtk-3 gnome-desktop libcroco libxkbcommon feedbackd"
+BUILDDEP="llvm rustc"
+
+MESON_AFTER="-Dbuildtype=release"
+USECLANG=1
+USECLANG__LOONGSON3=0
+NOLTO__LOONGSON3=1
+ABSPLITDBG=0
