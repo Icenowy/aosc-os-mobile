@@ -1,0 +1,3 @@
+VER=0+git20220408
+SRCS="git::commit=e3b4cdfff16a589cf688bc0b490668daff916c79::https://invent.kde.org/plasma-mobile/plasma-phone-settings"
+CHKSUMS="SKIP"

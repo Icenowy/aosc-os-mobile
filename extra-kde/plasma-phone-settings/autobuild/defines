@@ -1,0 +1,7 @@
+PKGNAME=plasma-phone-settings
+PKGSEC=kde
+PKGDEP="kde-base plasma-phone-components plasma-angelfish"
+PKGDES="Plasma default settings optimized for Plasma Mobile"
+
+ABHOST=noarch
+PKGCONFL="plasma-default-settings"
