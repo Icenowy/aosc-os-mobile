@@ -1,5 +1,5 @@
 PKGNAME=plasma-dialer
 PKGDES="Dialer for Plasma Mobile"
 PKGSEC=kde
-PKGDEP="qt-5 kirigami2 purpose ki18n kconfig kcoreaddons kdbusaddons kwindowsystem knotifications callaudiod modemmanager-qt libphonenumber"
+PKGDEP="qt-5 kirigami2 purpose ki18n kconfig kcoreaddons kdbusaddons kwindowsystem knotifications callaudiod modemmanager-qt libphonenumber kcontacts kpeople qtfeedback"
 BUILDDEP="extra-cmake-modules"
