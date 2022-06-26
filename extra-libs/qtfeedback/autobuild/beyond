@@ -1,0 +1,2 @@
+abinfo "Dropping bogus CMake file ..."
+rm -v "$PKGDIR"/usr/lib/cmake/Qt5Feedback/Qt5Feedback_.cmake
