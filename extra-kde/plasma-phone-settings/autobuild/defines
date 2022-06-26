@@ -1,6 +1,6 @@
 PKGNAME=plasma-phone-settings
 PKGSEC=kde
-PKGDEP="kde-base plasma-phone-components plasma-angelfish"
+PKGDEP="kde-base plasma-phone-components plasma-angelfish maliit-keyboard"
 PKGDES="Plasma default settings optimized for Plasma Mobile"
 
 ABHOST=noarch
