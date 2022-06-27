@@ -1,0 +1,5 @@
+PKGNAME=vvave
+PKGDES="Maui music player"
+PKGSEC=sound
+PKGDEP="mauikit mauikit-filebrowsing mauikit-accounts ki18n kcoreaddons qt-5 taglib"
+BUILDDEP="extra-cmake-modules"
