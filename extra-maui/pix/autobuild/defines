@@ -1,0 +1,5 @@
+PKGNAME=pix
+PKGDES="Maui gallery"
+PKGSEC=graphics
+PKGDEP="mauikit mauikit-filebrowsing mauikit-imagetools ki18n kcoreaddons qt-5"
+BUILDDEP="extra-cmake-modules"
