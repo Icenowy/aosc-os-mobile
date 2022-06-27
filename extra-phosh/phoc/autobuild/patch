@@ -1,0 +1,2 @@
+abinfo "Adding a dummy symlink to workaround build failure ..."
+ln -sfv "$BLDDIR"/config.h "$SRCDIR"/src/
