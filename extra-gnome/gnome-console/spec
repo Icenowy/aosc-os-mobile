@@ -1,0 +1,3 @@
+VER=42~beta
+SRCS="git::commit=tags/${VER/\~/.}::https://gitlab.gnome.org/GNOME/console"
+CHKSUMS="SKIP"
