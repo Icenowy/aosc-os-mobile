@@ -1,0 +1,3 @@
+VER=1.5.0
+SRCS="git::commit=tags/$VER::https://gitlab.com/postmarketOS/megapixels.git"
+CHKSUMS="SKIP"

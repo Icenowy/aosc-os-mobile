@@ -1,0 +1,6 @@
+PKGNAME=megapixels
+PKGDES="Gtk-based mobile camera application"
+PKGSEC=video
+PKGDEP="zbar gtk-4 libtiff libepoxy"
+
+ABTYPE=meson
