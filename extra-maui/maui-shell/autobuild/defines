@@ -1,0 +1,5 @@
+PKGNAME=maui-shell
+PKGDES="Maui Shell"
+PKGSEC=x11
+PKGDEP="mauikit kded kdoctools krunner knotifications knotifyconfig kdesu kwallet kidletime kdeclarative ki18n kcrash kglobalaccel kdbusaddons kwayland kcoreaddons kpeople kactivities-stats kactivities kio prison5 kpackage karchive kiconthemes kunitconversion kitemmodels kinit ktexteditor kconfig kservice polkit-qt-1 mauikit-filebrowsing fontconfig phonon"
+BUILDDEP="extra-cmake-modules"
