@@ -1,0 +1,5 @@
+PKGNAME=station
+PKGDES="Maui terminal emulator"
+PKGSEC=utils
+PKGDEP="mauikit ki18n kcoreaddons mauikit-filebrowsing qmltermwidget"
+BUILDDEP="extra-cmake-modules"
