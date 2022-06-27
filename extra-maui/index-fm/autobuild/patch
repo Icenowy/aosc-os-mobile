@@ -1,0 +1,2 @@
+abinfo "Removing -Werror from CMakeLists.txt ..."
+sed -i 's/-Werror//g' "$SRCDIR"/CMakeLists.txt

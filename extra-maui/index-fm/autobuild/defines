@@ -1,0 +1,5 @@
+PKGNAME=index-fm
+PKGDES="Maui file manager"
+PKGSEC=utils
+PKGDEP="mauikit mauikit-filebrowsing mauikit-accounts ki18n kcoreaddons karchive kio"
+BUILDDEP="extra-cmake-modules"
