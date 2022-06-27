@@ -1,0 +1,5 @@
+PKGNAME=mauikit
+PKGDES="Maui HIG Kit for creating adaptive applications"
+PKGSEC=libs
+PKGDEP="qt-5 kwindowsystem ki18n kcoreaddons knotifications kconfig"
+BUILDDEP="extra-cmake-modules"
