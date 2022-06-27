@@ -1,0 +1,5 @@
+PKGNAME=mauikit-imagetools
+PKGDES="MauiKit image editor component"
+PKGSEC=libs
+PKGDEP="mauikit ki18n kcoreaddons exiv2 kquickimageeditor"
+BUILDDEP="extra-cmake-modules"
