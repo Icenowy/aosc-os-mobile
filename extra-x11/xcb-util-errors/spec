@@ -1,0 +1,4 @@
+VER=1.0
+SRCS="tbl::https://xcb.freedesktop.org/dist/xcb-util-errors-$VER.tar.bz2"
+CHKSUMS="sha256::682681769e818ba085870d1ccd65f1f282ca16ca7d6f0f73ee70bc3642aa1995"
+CHKUPDATE="anitya::id=17167"

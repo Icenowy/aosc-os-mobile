@@ -1,0 +1,6 @@
+PKGNAME=xcb-util-errors
+PKGSEC=x11
+PKGDEP="xcb-util xcb-proto"
+PKGDES="X11 Client Side Utilities - Error-formating Libraries"
+
+RECONF=0
