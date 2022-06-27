@@ -1,0 +1,7 @@
+PKGNAME=clip
+PKGDES="Maui video player"
+PKGSEC=video
+PKGDEP="mauikit mauikit-filebrowsing ffmpeg taglib kdbusaddons mpv"
+BUILDDEP="extra-cmake-modules"
+
+CMAKE_AFTER="-DMPV_AVAILABLE=TRUE"
