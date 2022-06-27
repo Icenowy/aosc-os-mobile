@@ -1,0 +1,4 @@
+PKGNAME=qmltermwidget
+PKGDES="QML port of QTermWidget"
+PKGSEC=libs
+PKGDEP="qt-5"
