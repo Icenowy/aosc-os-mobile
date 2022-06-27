@@ -1,0 +1,3 @@
+VER=2.1.2
+SRCS="git::commit=tags/v$VER::https://invent.kde.org/maui/mauikit-filebrowsing.git"
+CHKSUMS="SKIP"

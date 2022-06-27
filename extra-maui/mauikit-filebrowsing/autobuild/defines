@@ -1,0 +1,5 @@
+PKGNAME=mauikit-filebrowsing
+PKGDES="MauiKit helper library to work with files"
+PKGSEC=libs
+PKGDEP="mauikit kconfig ki18n kcoreaddons kio"
+BUILDDEP="extra-cmake-modules"
