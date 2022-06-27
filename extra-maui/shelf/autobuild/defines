@@ -1,0 +1,5 @@
+PKGNAME=shelf
+PKGDES="Maui e-book manager"
+PKGSEC=doc
+PKGDEP="mauikit mauikit-filebrowsing mauikit-texteditor ki18n kcoreaddons qt-5 poppler"
+BUILDDEP="extra-cmake-modules"
