@@ -1,0 +1,4 @@
+PKGNAME=qtmpris
+PKGDES="MPRIS implementation for Qt"
+PKGSEC=libs
+PKGDEP="qt-5"
