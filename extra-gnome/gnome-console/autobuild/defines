@@ -1,5 +1,5 @@
 PKGNAME=gnome-console
 PKGDES="Simple and user-friendly terminal emulator for the GNOME desktop"
 PKGSEC=gnome
-PKGDEP="vte gtk-3 libhandy-0 libgtop"
+PKGDEP="vte gtk-3 libhandy libgtop"
 BUILDDEP="sassc"
