@@ -1,0 +1,5 @@
+PKGNAME=mauikit-accounts
+PKGDES="MauiKit library for handling user accounts"
+PKGSEC=libs
+PKGDEP="mauikit ki18n kcoreaddons kconfig"
+BUILDDEP="extra-cmake-modules"
