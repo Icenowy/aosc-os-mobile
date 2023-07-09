@@ -1,4 +1,4 @@
-VER=22.11
+VER=23.01.0
 SRCS="tbl::https://download.kde.org/stable/plasma-mobile/${VER}/angelfish-${VER}.tar.xz"
-CHKSUMS="sha256::3e69ab543fe7bc8a4faf23176b79d0002a36c9f7d8ccffe170301f860c31f71d"
+CHKSUMS="sha256::771ca0bb2f5c9e32d5fbc801cd69477aa14d5c926c3900c866289f223bd2f5df"
 CHKUPDATE="anitya::id=229048"

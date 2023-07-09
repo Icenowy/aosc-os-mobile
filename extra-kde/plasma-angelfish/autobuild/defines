@@ -1,5 +1,5 @@
 PKGNAME=plasma-angelfish
 PKGDES="Browser for Plasma Mobile"
 PKGSEC=kde
-PKGDEP="qt-5 kirigami2 purpose ki18n kconfig kcoreaddons kdbusaddons kwindowsystem knotifications qtfeedback"
+PKGDEP="qt-5 kirigami2 purpose ki18n kconfig kcoreaddons kdbusaddons kwindowsystem knotifications kirigami-addons"
 BUILDDEP="extra-cmake-modules"
