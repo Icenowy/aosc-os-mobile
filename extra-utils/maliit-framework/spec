@@ -1,3 +1,3 @@
-VER=2.2.1
+VER=2.3.0
 SRCS="git::commit=tags/$VER::https://github.com/maliit/framework"
 CHKSUMS="SKIP"
