@@ -1,0 +1,4 @@
+VER=23.01.0
+SRCS="tbl::https://download.kde.org/stable/plasma-mobile/${VER}/qmlkonsole-${VER}.tar.xz"
+CHKSUMS="sha256::0387eb407519391c4a0b4c49db7161e58a089cfdc66925c510951698febc021e"
+CHKUPDATE="anitya::id=229048"
