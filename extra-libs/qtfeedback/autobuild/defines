@@ -1,4 +1,0 @@
-PKGNAME=qtfeedback
-PKGDES="Qt feedback library"
-PKGSEC=libs
-PKGDEP="qt-5"

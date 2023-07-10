@@ -1,3 +1,0 @@
-VER=5.0.0~beta1+git20180903
-SRCS="git::commit=a14bd0bb1373cde86e09e3619fb9dc70f34c71f2::https://github.com/qt/qtfeedback.git"
-CHKSUMS="SKIP"
