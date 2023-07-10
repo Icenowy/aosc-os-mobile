@@ -1,0 +1,5 @@
+PKGNAME=plasma-settings
+PKGDES="Settings application for Plasma Mobile"
+PKGSEC=kde
+PKGDEP="ki18n kcoreaddons solid kconfig kauth kdbusaddons plasma-framework kservice kdeclarative kio modemmanager-qt networkmanager-qt kirigami-addons"
+BUILDDEP="extra-cmake-modules"
