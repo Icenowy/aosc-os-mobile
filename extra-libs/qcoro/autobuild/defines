@@ -1,0 +1,16 @@
+PKGNAME=qcoro
+PKGSEC=libs
+PKGDES="A C++ coroutines library for Qt"
+PKGDEP="qt-5"
+
+CMAKE_AFTER="-DUSE_QT_VERSION=5 \
+             -DBUILD_TESTING=OFF \
+             -DBUILD_SHARED_LIBS=ON \
+             -DQCORO_BUILD_EXAMPLES=OFF \
+             -DQCORO_ENABLE_ASAN=OFF \
+             -DQCORO_WITH_QTDBUS=ON \
+             -DQCORO_WITH_QTNETWORK=ON \
+             -DQCORO_WITH_QTWEBSOCKETS=ON \
+             -DQCORO_WITH_QTQUICK=ON \
+             -DQCORO_WITH_QML=ON \
+             -DQCORO_WITH_QTTEST=ON"
